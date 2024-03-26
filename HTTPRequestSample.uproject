@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{723351F1-47EA-46B3-D9BE-A3A1859C8627}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HTTPRequestSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
